@@ -25,7 +25,7 @@
 
 **My code in Python** 🐍 **for this challenge**
 
- 🔗 https://github.com/vegacastilloe/Weekly_Matrix_Table_with_Totals/blob/main/weekly_matrix_table.py
+ 🔗 https://github.com/vegacastilloe/Consolidate-Candidates-Experiences/blob/main/candidates_experiences.py
 
 ---
 ---
